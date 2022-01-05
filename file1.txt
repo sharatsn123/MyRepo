@@ -1,2 +1,5 @@
 working file.
 bug
+committed line
+cached line
+untracked line
